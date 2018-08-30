@@ -7,6 +7,12 @@
     <groupId>cn.mlick</groupId>
     <artifactId>checkservice</artifactId>
     <version>1.0</version>
+
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
     <dependencies>
         <!-- 定时执行的组件 quartz -->
         <dependency>
