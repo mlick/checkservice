@@ -81,6 +81,7 @@
 
             <plugin><!--将所有的依赖达到一个jar包里-->
                 <artifactId>maven-assembly-plugin</artifactId>
+                <version>2.6</version>
                 <configuration>
                     <archive>
                         <manifest>
