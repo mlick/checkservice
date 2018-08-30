@@ -15,7 +15,7 @@
 打包命令-> mvn assembly:assembly
 
 
-运行 java target/checkservice-1.0.jar
+运行 java -jar target/checkservice-1.0.jar
 
 
 
