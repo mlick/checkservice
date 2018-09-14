@@ -6,7 +6,10 @@
 
     <groupId>cn.mlick</groupId>
     <artifactId>checkservice</artifactId>
-    <version>1.0</version>
+    <!--<version>1.0</version>-->
+
+    <!-- 动态使用配置文件处理文件 2018年9月14日14:01:52 -->
+    <version>1.1</version>
 
 
     <properties>
